@@ -70,6 +70,12 @@ Los resistores o contactos abiertos y un punto en cortocircuito con otros son pr
 
 ![Circuitos en paralelo](https://user-images.githubusercontent.com/116813369/203695372-8ac8c182-3ebf-4f27-96dd-43201de2e5a7.jpg)
 
+# RESISTENCIA TOTAL EN PARALELO
 
+Cuando se conectan resistores en paralelo,la resistencia total del circuito se reduce.Siempre es menor que el valor del resistor más pequeño. La corriente dispone de más de una trayectoria,el número de trayectorias para la corriente es igual al número de ramas en paralelo. La corriente total suministrada por la fuente se ha incrementado con la adición del resistor en paralelo,se supone que el voltaje de fuente permanece constante,un incremento de la corriente total suministrada por la fuente significa que la resistencia total ha disminuido,de acuerdo con la ley de Ohm.La conexión de más resistores en paralelo reducirá aún más la resistencia e incrementará la corriente total.
 
+![image](https://user-images.githubusercontent.com/116813369/203704513-cb911f44-3fde-4688-9bf3-ed28e2d0e2ef.png)
 
+# APLICACIÓN DE LA LEY DE OHM
+
+![image](https://user-images.githubusercontent.com/116813369/203704601-b272b108-ef49-4265-bb99-fa3a549af7cc.png)

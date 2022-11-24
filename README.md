@@ -28,3 +28,48 @@ En este tipo de circuito la corriente es la misma a través de todos los puntos,
 
 # RESISTENCIA TOTAL EN SERIE
 
+![Resistencia Total en Serie](https://user-images.githubusercontent.com/116813369/203691475-22af6d80-67da-4b79-960b-955fb2ebf410.jpg)
+
+# APLICACIÓN DE LA LEY DE OHM
+
+![image](https://user-images.githubusercontent.com/116813369/203691528-5fec589e-f062-400c-abaf-cc8c0c02f8ce.png)
+
+# FUENTES DE VOLTAJE EN SERIE
+
+![image](https://user-images.githubusercontent.com/116813369/203691616-207aa918-50d2-4735-a2ce-7918abe2d467.png)
+
+# LEY DE VOLTAJE DE KIRCHHOFF
+
+![image](https://user-images.githubusercontent.com/116813369/203691813-c4906c28-bf40-46a6-ace6-d992c961cad3.png)
+
+# DIVISORES DE VOLTAJE
+
+![image](https://user-images.githubusercontent.com/116813369/203691858-88c96565-aa7c-4dfd-8e18-4e91248a7c3a.png)
+
+# POTENCIA EN CIRCUITOS EN SERIE
+
+![POTENCIA DE CIRCUITOS EN SERIE](https://user-images.githubusercontent.com/116813369/203693585-3bff7e68-9c80-44e3-b963-f5e6ddf431c0.jpg)
+
+# MEDICIONES DE VOLTAJE
+
+En un punto del circuito el voltaje siempre se mide con respecto a otro punto.En la mayor parte del equipo electrónico se utiliza como tierra de referencia o común una gran área conductiva de una tarjeta de circuito impreso o la caja metálica.La tierra de referencia tiene un potencial de cero volts(0V) con respecto a todos los demás puntos del circuito relacionados. Como dato importante recordas que todos los puntos mostrados conectados a tierra en un circuito están conectados entre si mediante la tierra y eléctricamente son el mismo punto.
+
+![image](https://user-images.githubusercontent.com/116813369/203693620-ef1ff8d2-1b63-4668-8d94-b35c51111ac5.png)
+
+#LOCALIZACIÓN DE FALLAS
+
+Los resistores o contactos abiertos y un punto en cortocircuito con otros son problemas comunes que se presentan en todos los circuitos,incluidos los circuitos en serie.
+
+* Circuito Abierto Su falla más común es una abertura,un claro ejemplo es cuando un resistor o un foco se funden,provocan una ruptura en la trayectoria de la corriente y crean un circuito abierto.En un circuito en serie,una abertura impide el paso de la corriente. Aplicar el método APM para localización de fallas.
+
+* Cortocircuito Ocurre cuando dos elementos conductores tocan un objeto extraño,tal como soldadura o por sujecion accidental de dos alambres que conectan dos secciones de un circuito.Situación particular en circuitos con una alta densidad de componentes. Cuando existe un corto una parte de la resistencia es evitada, toda la corriente pasa por el corto,con lo que se reduce la resistencia total
+
+![image](https://user-images.githubusercontent.com/116813369/203693685-3976931a-944a-4203-9336-665eebf8917a.png)
+
+# CAPÍTULO 6-CIRCUITOS EN PARALELO
+
+![Circuitos en paralelo](https://user-images.githubusercontent.com/116813369/203695372-8ac8c182-3ebf-4f27-96dd-43201de2e5a7.jpg)
+
+
+
+

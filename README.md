@@ -119,6 +119,8 @@ Localización de una rama abierta utilizando medición de corriente En un circui
 
 # 4.VIDEO
 
+https://youtu.be/zC2Ao5jThn8
+
 # 5.CONCLUSIONES
 
 La ley de ohm nos permite encontrar los valores que son necesarios para conocer un circuito, es por ello que es importante comprender la ley y cada una de sus aplicaciones para cada uno de los casos que puedan existir.

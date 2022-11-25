@@ -79,3 +79,22 @@ Cuando se conectan resistores en paralelo,la resistencia total del circuito se r
 # APLICACIÓN DE LA LEY DE OHM
 
 ![image](https://user-images.githubusercontent.com/116813369/203704601-b272b108-ef49-4265-bb99-fa3a549af7cc.png)
+![Potencia circuitos paralelo](https://user-images.githubusercontent.com/116813369/203906994-0ecaa69f-727e-4c91-9106-65de4d3066de.jpg)
+
+# LOCALIZACIÓN DE FALLAS
+
+* RAMAS ABIERTAS Si se conecta un interruptor en una rama de un circuito en paralelo,el interruptor puede abrir o cerrar una trayectoria.Cuando el interruptor se cierra está en paralelo.La corriente pasa por ambos resistores si el interruptor se abre se retira efectivamente del circuito. Cuando una rama en paralelo se abre, la resistencia total se incrementa, la corriente total disminuye, y la misma corriente continúa fluyendo por cada una de las trayectorias en paralelo restantes. La disminución de la corriente total es igual a la cantidad de corriente que previamente circulaba por la rama abierta. Las demás corrientes de rama no cambian.
+
+![image](https://user-images.githubusercontent.com/116813369/203907702-f4592ee8-bb48-4158-bd5a-79287cd236a1.png)
+
+Localización de una rama abierta utilizando medición de corriente En un circuito en paralelo con una supuesta rama abierta, se puede medir la corriente total para localizar la abertura. Cuando un resistor en paralelo se abre, la corriente total IT siempre es menor que su valor normal. Una vez conocidos IT y el voltaje a través de las ramas, unos cuantos cálculos determinarán el resistor abierto cuando todos los resistores son de diferentes valores de resistencia.
+
+# 3.EJERCICIOS
+
+![image](https://user-images.githubusercontent.com/116813369/203908298-b111df4f-ada2-4eaa-bd3e-d317a54c10e3.png)
+![image](https://user-images.githubusercontent.com/116813369/203908405-fc517759-4db1-40da-b34f-fe7fa3e21884.png)
+![image](https://user-images.githubusercontent.com/116813369/203908757-a0c57f9e-0d78-4e58-a76a-9deb2cabfd7e.png)
+![image](https://user-images.githubusercontent.com/116813369/203908765-253f9db7-3a35-4117-a05e-d5074024cccd.png)
+
+
+

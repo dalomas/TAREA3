@@ -95,6 +95,37 @@ Localización de una rama abierta utilizando medición de corriente En un circui
 ![image](https://user-images.githubusercontent.com/116813369/203908405-fc517759-4db1-40da-b34f-fe7fa3e21884.png)
 ![image](https://user-images.githubusercontent.com/116813369/203908757-a0c57f9e-0d78-4e58-a76a-9deb2cabfd7e.png)
 ![image](https://user-images.githubusercontent.com/116813369/203908765-253f9db7-3a35-4117-a05e-d5074024cccd.png)
+![image](https://user-images.githubusercontent.com/116813369/203908839-db5fc05d-16aa-4279-a59a-4607b512e280.png)
+![image](https://user-images.githubusercontent.com/116813369/203908851-b9a57477-b336-4f79-8a6e-69a6871c949d.png)
+![image](https://user-images.githubusercontent.com/116813369/203908865-d8264f6e-3f0e-4683-bdb7-df4d5ec84ce6.png)
+![image](https://user-images.githubusercontent.com/116813369/203908877-7a5b6f5c-283b-4a94-8a21-e1b053b3f82c.png)
+![image](https://user-images.githubusercontent.com/116813369/203908892-dd5e4cc2-5651-464f-b6ff-c72fdf521dea.png)
+![image](https://user-images.githubusercontent.com/116813369/203908911-f1ed77c2-0f9b-4096-8556-c880a17ef856.png)
+![image](https://user-images.githubusercontent.com/116813369/203908919-034ebdb0-039c-4a75-94e0-894bf38e2235.png)
+![image](https://user-images.githubusercontent.com/116813369/203908937-94fc34cb-ba24-4942-aa68-451e16515e36.png)
+![image](https://user-images.githubusercontent.com/116813369/203908960-9d3d93b2-e354-4040-ab72-4c64b26f4bf8.png)
+![image](https://user-images.githubusercontent.com/116813369/203908974-d2790242-6b08-4342-a0b0-0f32fbda3bbc.png)
+![image](https://user-images.githubusercontent.com/116813369/203908997-ac1ab5b2-9220-4368-b741-91d6ab0cdebb.png)
+![image](https://user-images.githubusercontent.com/116813369/203909004-d5e58cab-85e4-4a6b-ac15-4c83d34870c3.png)
+![image](https://user-images.githubusercontent.com/116813369/203909017-c30cf0b2-900d-4db6-83c0-9f8ca35eb1f6.png)
+![image](https://user-images.githubusercontent.com/116813369/203909032-d969fffe-b505-46cd-956d-02524d82425a.png)
+![Ejercicios Tarea 3_001](https://user-images.githubusercontent.com/116813369/203928792-4fcb8dde-7f10-46a5-9dd6-86cb3bb25621.png)
+![Ejercicios Tarea 3_002](https://user-images.githubusercontent.com/116813369/203928801-42a2fc96-4016-4d2d-a87a-53464746bb21.png)
+![Ejercicios Tarea 3_003](https://user-images.githubusercontent.com/116813369/203928810-854e3972-b406-4835-a097-5d0f959461bc.png)
+![Ejercicios Tarea 3_004](https://user-images.githubusercontent.com/116813369/203928817-69f93e00-9a9e-4311-b68c-ab59f6291ad6.png)
+![Ejercicios Tarea 3_005](https://user-images.githubusercontent.com/116813369/203928828-184adb7e-7e7d-4414-8f75-adb5e25e79db.png)
+![Ejercicios Tarea 3_006](https://user-images.githubusercontent.com/116813369/203928833-108f1425-c57f-4268-9e5d-9e415d658585.png)
+![Ejercicios Tarea 3_007](https://user-images.githubusercontent.com/116813369/203928840-9e74b536-659d-402f-ba69-d8c0f9e85a52.png)
 
+# 4.VIDEO
 
+# 5.CONCLUSIONES
+
+La ley de ohm nos permite encontrar los valores que son necesarios para conocer un circuito, es por ello que es importante comprender la ley y cada una de sus aplicaciones para cada uno de los casos que puedan existir.
+La ley de Kirchhoff sera indispensable para la realizacion de calculos de circuitos y los diferentes tipos que existen de estos mismo por ello se debe estudiar esta ley con detenimiento para saber como aplicarla.
+Los capitulos estudiados en esta tarea seran base fundamental para los estudiantes de fundamentos de los circuitos electricos, es por esto que si quedo algun tema sin revisar o con un bajo nivel de comprension es necesario releer los capitulos para asi no tener vacios en la materia.
+
+# 6.BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
 
